@@ -22,5 +22,3 @@ Nueral Network has around 50% without any optimizaton
 
 *Albara.sasbbagh@gmail.com
 
-Email me before pull request please 
-  
