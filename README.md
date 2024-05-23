@@ -18,7 +18,6 @@ Nueral Network has around 50% without any optimizaton
 - Totalling more than 1 Million Rows (Can't be opened in excel if you append them)
 - Please note that when the model is deployed the label classified is the "Probability of the [Client to default on their loans] " and it's not a 1 or 0
 - There's a depth guide of LIGHTGBM model in the IPYNB file (IF needed)
-- The LIGHTGBM file is outputed an has a output on each cell
 - If you needd better idea on the model , plot the AUC vs Itirations to see if the model can achieve betetr AUC when adjusting the Early Stopping functon 
 
 *Albara.sasbbagh@gmail.com
