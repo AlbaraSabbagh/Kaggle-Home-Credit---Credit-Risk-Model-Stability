@@ -21,4 +21,6 @@ Nueral Network has around 50% without any optimizaton
 - If you needd better idea on the model , plot the AUC vs Itirations to see if the model can achieve betetr AUC when adjusting the Early Stopping functon 
 
 *Albara.sasbbagh@gmail.com
+
+Email me before pull request please 
   
